@@ -1,11 +1,11 @@
 {
   "name": "lens-elife",
-  "description": "eLife Lens bundle.",
+  "description": "Whitelabel Lens bundle.",
   "dependencies": {
     "underscore": "1.8.x",
     "express": "3.3.x",
     "ejs": "*",
-    "lens": "elifesciences/lens.git#develop"
+    "lens": "file:../lens/"
   },
   "devDependencies": {
     "browserify": "substance/node-browserify#d3caeb6dcdaa97a258d099c7231a57f0f60ec876",
